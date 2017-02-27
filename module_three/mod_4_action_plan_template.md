@@ -9,7 +9,7 @@ I want to have started my own podcast.
 ### Strategy To Achieve Goals:
 In this section, break down your longterm goal into smaller goals that you want to work on each week and/or day
 I will get everything I feel that I need polished done during the offweekd before module 4.
-Then I will cold out reach and apply for 1 job everyday of module4.
+Then I will cold out reach and apply for 1 job everyday of module 4.
 
 #### Coding (both including your module 4 curriculum and anything outside of it):
 *How will you focus your learning to accomplish your longterm goal?*
